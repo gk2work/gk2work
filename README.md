@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am SDE-1 @ForeignAdmits.com
+SDE-1 @ForeignAdmits.com
 
 
 ## 🌐 Socials:
